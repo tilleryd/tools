@@ -10,9 +10,13 @@ A collection of interesting tools and articles.
     - [Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)](https://www.youtube.com/watch?v=k-A2VfuUROg)
     - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
     - [SSR with ReactDOMServer](https://reactjs.org/docs/react-dom-server.html)
+    - [GoogleChromeLabs/progressive-rendering-frameworks-samples](https://github.com/GoogleChromeLabs/progressive-rendering-frameworks-samples)
   - State Management
     - [xState](https://xstate.js.org/)
 - Back end
 - Other
   - [rr](https://rr-project.org/)
   - [jq](https://stedolan.github.io/jq/)
+  - [dig](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/#Dig-a-Domain-Name)
+  - [curl](https://curl.haxx.se/)
+  
