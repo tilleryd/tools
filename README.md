@@ -22,6 +22,8 @@ A collection of interesting tools and articles.
     - [stratiformltd/react-loadable-visibility](https://github.com/stratiformltd/react-loadable-visibility)
   - State Management
     - [xState](https://xstate.js.org/)
+  - Controls
+    - [Tippy](https://atomiks.github.io/tippyjs/)
 - Back end
 - Other
   - [rr](https://rr-project.org/)
